@@ -5,7 +5,8 @@ As an entry-level Business Analyst, your role bridges business stakeholders and 
 [11 Key Roles and Responsibilities of a Business Analyst in 2026](https://www.edstellar.com/blog/business-analyst-roles-and-responsibilities)
 
 ## Core Responsibilities and Competencies Required
-- Collaborate with stakeholders, architects, engineers, and UX designers to gather and document business and technical requirements.
+- Collaborate with business stakeholders (e.g. product owners, users), architects, engineers, and UX designers to gather and document business and technical requirements.
+- Serve as a liaison between development team and stakeholders, ensuring both technical and non-technical team members stay aligned
 - Translate business needs into user stories, process flows, functional specifications.
 - Support Agile ceremonies including sprint planning, backlog grooming, daily stand-ups, and retrospectives.
 - Assist in user acceptance testing (UAT) and ensure solutions meet business and functional expectations.
@@ -14,14 +15,23 @@ As an entry-level Business Analyst, your role bridges business stakeholders and 
 
 ## Essential Technical Skills
 - Microsoft Azure DevOps (Epics, Features, User Stories, PBIs)
-- Microsoft Office Suite (Excel, PowerPoint, Word)
 - Familiarity with Agile/Scrum methodologies
+- Microsoft Office Suite (Excel, PowerPoint, Word)
+- Miro/Lucidchart/Visio (create process flow diagrams and basic wireframes)
 
 ## Additional Key Skills and Competencies
+- Stakeholder management (conducting interviews to understand pain points and outcomes, communicating requirements and updates clearly to all parties)
 - Basic understanding of APIs, databases, or software development life cycle (SDLC)
 - Exposure to data visualization tools (e.g. Power BI, Tablaeu) or SQL
 
 ## Topics
+- Writing PBIs and user stories
+- Azure DevOps
+- Stakeholder communication
+- UAT and test case creation
+- Process flow diagrams and functional documentation
+- Agile/Scrum
+- SLDC
 
 ## Courses
 
