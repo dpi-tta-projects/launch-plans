@@ -38,7 +38,7 @@
 - [Design Thinking Specialization](https://www.coursera.org/specializations/uva-darden-design-thinking)
 
 **Reading**
-- [Overview - Design Thinking](https://designthinking.ideo.com)
+- [Overview: Design Thinking](https://designthinking.ideo.com)
 - [Overview: Prosci Change management (ADKAR)](https://www.walkme.com/blog/prosci-change-management)
 - [Change Management Case Study](https://www.prosci.com/blog/how-microsoft-uses-the-adkar-model-to-improve-customer-success)
 
