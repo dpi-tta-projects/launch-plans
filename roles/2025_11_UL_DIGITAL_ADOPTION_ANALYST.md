@@ -6,11 +6,12 @@
 
 ## Core responsibilities and competencies required
 
-- Deliver engaging training sessions or upskilling activities tailored to different user personas.
-- Create and maintain user-centric documentation, including user guides, process flows, FAQs, and best practices.
-- Collaborate with Corporate Communications, Program Management, and Leadership to draft and refine user-facing communications.
-- Tailor messaging to different audiences to drive awareness, understanding, and enthusiasm for new technologies.
-- Monitor adoption metrics and training effectiveness using surveys, analytics, and feedback and determine improvement areas.  
+- Technology training or enablement
+- Creating user-friendly guides, process flows, and FAQs
+- Drafting and refining communications for technology adoption
+- Monitoring adoption metrics and improving training strategies
+- Ability to translate technical concepts into clear, simple content
+- Comfort using training content tools like PowerPoint, video editors, and LMS platforms
 
 ## Essential technical skills
 
@@ -18,16 +19,23 @@
 
 ## Additional key skills and competencies
 
-- Technology training or enablement
 - Change management or organizational development
 - Internal communications or employee engagement
 - IT project support or digital transformation initiatives
 - Strong written and verbal communication skills
-- Ability to translate technical concepts into user-friendly content
-- Experience with Microsoft 365, Teams, SharePoint, or similar collaboration platforms
-- Comfortability in creating training content using tools like PowerPoint, video editors, or LMS platforms
 - Analytical mindset
 - Strong interpersonal skills and stakeholder management 
+
+## Topics
+
+- Digital Adoption and Change Management Fundamentals
+- Design Thinking and Human-Centered Design
+- Prosci ADKAR Model for Change Management
+- Microsoft 365 Productivity Tools and Automation
+- Communication Strategies for Technology Enablement
+- Measuring User Engagement and Adoption Metrics
+- Developing User-Centric Training and Support Materials
+- Digital Transformation and Organizational Readiness
 
 ## Courses
 
@@ -57,3 +65,40 @@
 - [Getting Started in Microsoft SharePoint](https://www.youtube.com/watch?v=Ue5jIxtuJNg)
 - [Microsoft 365 Basics](https://www.youtube.com/watch?v=ySKjhmg9RRo)
 
+## Deliverables
+
+- **Digital Adoption Strategy and Implementation Plan**  
+  Develop a structured strategy to improve user adoption of digital tools (e.g., Microsoft 365, SharePoint, Copilot).  
+  The plan should outline key user segments, communication channels, and measurable adoption goals.
+
+- **User Training Materials**  
+  Create engaging, user-focused learning content such as quick-start guides, tutorials, FAQs, and video walkthroughs  
+  to support onboarding and skill development.
+
+- **Communication Campaign**  
+  Design and implement an internal communication plan to raise awareness and enthusiasm for new digital tools.  
+  Include email templates, newsletter content, and visual assets.
+
+- **User Feedback and Analysis Report**  
+  Conduct surveys or interviews to gather user insights, analyze adoption metrics, and summarize key findings  
+  in a data-driven report with recommendations for improvement.
+
+- **Change Management Toolkit**  
+  Develop a set of reusable resources — including stakeholder maps, communication plans, and adoption dashboards —  
+  to support ongoing digital transformation efforts.
+
+## Scope:
+
+### Technology Enablement & Training
+
+- Deliver engaging training sessions or upskilling activities tailored to different user personas.
+- Create and maintain user-centric documentation, including user guides, process flows, FAQs, and best practices. 
+
+### Communication & Engagement
+
+- Collaborate with Corporate Communications, Program Management, and Leadership to draft and refine user-facing communications.
+- Tailor messaging to different audiences to drive awareness, understanding, and enthusiasm for new technologies.
+
+### Measurement & Continuous Improvement
+
+- Monitor adoption metrics and training effectiveness using surveys, analytics, and feedback and determine improvement areas.  

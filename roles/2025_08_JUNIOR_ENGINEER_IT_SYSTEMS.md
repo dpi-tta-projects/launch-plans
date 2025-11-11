@@ -12,7 +12,7 @@
 - Support performance reports and monitoring.
 - Team description: The team is a level 3 Network Operations group that maintains and support network infrastructure throughout their life cycle. The team also serves as the last point of escalation for all network related issues.
 
-## Essential technical skills
+## Essxaential technical skills
 
 - IP addressing
 - IP connectivity (routing)
