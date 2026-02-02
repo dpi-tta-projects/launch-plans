@@ -1,0 +1,48 @@
+# UL - Business Analyst (IT)
+
+## Day in a Life
+As an entry-level Business Analyst, your role bridges business stakeholders and the technical team. A typical day might include gathering requirements from users, documenting Product Backlog Items (PBIs) in Azure DevOps, collaborating in Agile ceremonies, and assisting with testing and documentation to ensure that each solution aligns with business goals.
+[11 Key Roles and Responsibilities of a Business Analyst in 2026](https://www.edstellar.com/blog/business-analyst-roles-and-responsibilities)
+
+## Core Responsibilities and Competencies Required
+- Collaborate with business stakeholders (e.g. product owners, users), architects, engineers, and UX designers to gather and document business and technical requirements.
+- Serve as a liaison between development team and stakeholders, ensuring both technical and non-technical team members stay aligned
+- Translate business needs into user stories, process flows, functional specifications.
+- Support Agile ceremonies including sprint planning, backlog grooming, daily stand-ups, and retrospectives.
+- Assist in user acceptance testing (UAT) and ensure solutions meet business and functional expectations.
+- Create and maintain documentation such as business process models, feature requirements, and user guides.
+- Stay current on industry trends, Agile practices, and enterprise IT systems to support digital transformation initiatives.
+
+## Essential Technical Skills
+- Microsoft Azure DevOps (Epics, Features, User Stories, PBIs)
+- Familiarity with Agile/Scrum methodologies
+- Microsoft Office Suite (Excel, PowerPoint, Word)
+- Miro/Lucidchart/Visio (create process flow diagrams and basic wireframes)
+
+## Additional Key Skills and Competencies
+- Stakeholder management (conducting interviews to understand pain points and outcomes, communicating requirements and updates clearly to all parties)
+- Basic understanding of APIs, databases, or software development life cycle (SDLC)
+- Exposure to data visualization tools (e.g. Power BI, Tableau) or SQL
+
+## Topics
+- Writing PBIs and user stories
+- Azure DevOps
+- Stakeholder communication
+- UAT and test case creation
+- Process flow diagrams and functional documentation
+- Agile/Scrum
+- SLDC
+
+## Courses
+- [Atlassian - User stories with examples and a template](https://www.atlassian.com/agile/project-management/user-stories)
+- [Atlassian - What is scrum and how to get started](https://www.atlassian.com/agile/scrum)
+- [Atlassian - Apply agile practices to manage your work](https://community.atlassian.com/learning/path/apply-agile-practices-to-manage-your-work)
+- [Youtube - Introduction to Azure DevOps](https://www.youtube.com/watch?v=JhqpF-5E10I)
+- [Datacamp - Introduction to Excel](https://app.datacamp.com/learn/courses/introduction-to-excel)
+- [Datacamp - Introduction to SQL](https://app.datacamp.com/learn/courses/introduction-to-sql)
+
+## Deliverables
+- Well-documented user stories, PBIs, and requirements in Azure DevOps
+- Process maps and workflow diagrams
+- Clear, concise meeting notes and UAT documentation
+- Contributions to sprint planning and Agile retrospectives
